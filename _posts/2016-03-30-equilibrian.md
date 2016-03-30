@@ -8,22 +8,22 @@ publisher:
   domain: bit.ly
 keywords:
   - sales
-  - contact
-  - days
-  - norm
-  - team
+  - manage
   - business
-  - best
-  - persistency
   - o14
-  - lead
-description: 'When you need to push for results, it is important to have clarity about what is happening in the team and where to find improvement. - blog post from the team at Equilibrian'
+  - burj
+  - kpi
+  - role
+  - questions
+  - customers
+  - important
+description: 'How do you uncover the Sales Manager who just has the Title, rather than someone that will actually MANAGE your Sales? - blog post from the team at Equilibrian'
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://bit.ly/1O8oyzI'
+isBasedOnUrl: 'http://bit.ly/1PXabR9'
 title: Equilibrian
-datePublished: '2016-03-30T03:53:49.064Z'
-dateModified: '2016-03-30T03:51:21.861Z'
+datePublished: '2016-03-30T03:53:49.139Z'
+dateModified: '2016-03-30T03:51:26.298Z'
 sourcePath: _posts/2016-03-30-equilibrian.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Equilibrian</h1><p>When you need to push for results, it is important to have clarity about what is happening in the team and where to find improvement. - blog post from the team at Equilibrian</p><img src="http://www.revenuerebel.com/img/blog-headings/equilibrian/whats-happening-in-your-sales-team.jpg" /></article>
+<article style=""><h1>Equilibrian</h1><p>How do you uncover the Sales Manager who just has the Title, rather than someone that will actually MANAGE your Sales? - blog post from the team at Equilibrian</p><img src="http://www.revenuerebel.com/img/blog-headings/equilibrian/whats-happening-in-your-sales-team.jpg" /></article>
