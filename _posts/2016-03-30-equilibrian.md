@@ -7,23 +7,23 @@ publisher:
   favicon: 'http://www.equilibrian.com/images/favicon/favicon-16x16.png'
   domain: bit.ly
 keywords:
-  - conversion
-  - visitors
-  - content
-  - online
-  - lead
-  - website
-  - download
-  - utilizing
-  - offers
-  - copy
-description: 'To give your online marketing efforts a shot in the arm, follow the industry leaders, give the following a whirl and prepare to max-out your click-throughs. - blog post from the team at Equilibrian'
+  - sales
+  - balance
+  - team
+  - prospects
+  - imbalance
+  - managers
+  - performance
+  - maintain
+  - business
+  - trained
+description: "Ever taken a flight on a plane with one wing wider than the other? Or laid a bet on a horse with a short leg? Didn't think so, and there's a very good reason for that. Things in balance work. - blog post from the team at Equilibrian"
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://bit.ly/23Su1Td'
+isBasedOnUrl: 'http://bit.ly/1SAHJq0'
 title: Equilibrian
-datePublished: '2016-03-30T03:53:49.603Z'
-dateModified: '2016-03-30T03:51:00.439Z'
+datePublished: '2016-03-30T03:53:49.997Z'
+dateModified: '2016-03-30T03:50:47.656Z'
 sourcePath: _posts/2016-03-30-equilibrian.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Equilibrian</h1><p>To give your online marketing efforts a shot in the arm, follow the industry leaders, give the following a whirl and prepare to max-out your click-throughs. - blog post from the team at Equilibrian</p><img src="http://www.revenuerebel.com/img/blog-headings/equilibrian/maximizing-click-throughs.jpg" /></article>
+<article style=""><h1>Equilibrian</h1><p>Ever taken a flight on a plane with one wing wider than the other? Or laid a bet on a horse with a short leg? Didn't think so, and there's a very good reason for that. Things in balance work. - blog post from the team at Equilibrian</p><img src="http://www.revenuerebel.com/img/blog-headings/equilibrian/90-percent-struggle.jpg" /></article>
