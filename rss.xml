@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Equilibrian]]></title>
         <description><![CDATA[Equilibrian]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/equilibrian/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 03:53:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 30 Mar 2016 03:54:07 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/equilibrian/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Equilibrian]]></title>
+            <description><![CDATA[<article><h1>Equilibrian</h1><p>How do you uncover the Sales Manager who just has the Title, rather than someone that will actually MANAGE your Sales? - blog post from the team at Equilibrian</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d35d3afa187d237b863bd3197972561220655da.jpg"></article>]]></description>
+            <link>http://bit.ly/1PXabR9</link>
+            <guid isPermaLink="false">15526c00-29ee-48da-a956-d0b4e8f87a6a</guid>
+            <pubDate>Wed, 30 Mar 2016 03:53:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Equilibrian]]></title>
             <description><![CDATA[<article><h1>Equilibrian</h1><p>When you need to push for results, it is important to have clarity about what is happening in the team and where to find improvement. - blog post from the team at Equilibrian</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d35d3afa187d237b863bd3197972561220655da.jpg"></article>]]></description>
