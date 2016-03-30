@@ -7,23 +7,23 @@ publisher:
   favicon: 'http://www.equilibrian.com/images/favicon/favicon-16x16.png'
   domain: bit.ly
 keywords:
+  - prospect
   - sales
-  - communicating
-  - business
-  - processes
-  - team
-  - message
-  - decision
-  - often
+  - crm
+  - best-practice
+  - well-worn
+  - o14
   - burj
-  - over-collaboration
-description: 'As a leader, do you communicate effectively with your sales team? Do you really know who they are? Do they know you? Effective two-way internal communication with your sales front-line can be as important to your business as effective communication with - blog post from the team at Equilibrian'
+  - relevant
+  - executives
+  - steps
+description: "Why do sales people insist on 'touching base' with prospects or 'catching up' with them? Whenever I hear a sales executive drag out these well-worn cliches, it tells me there's no playbook. There's no plan. They've no real idea of what comes next."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://bit.ly/1ZpqLix'
+isBasedOnUrl: 'http://bit.ly/1OfAHkb'
 title: Equilibrian
-datePublished: '2016-03-30T03:53:49.294Z'
-dateModified: '2016-03-30T03:51:14.919Z'
+datePublished: '2016-03-30T03:53:49.522Z'
+dateModified: '2016-03-30T03:51:11.756Z'
 sourcePath: _posts/2016-03-30-equilibrian.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Equilibrian</h1><p>As a leader, do you communicate effectively with your sales team? Do you really know who they are? Do they know you? Effective two-way internal communication with your sales front-line can be as important to your business as effective communication with - blog post from the team at Equilibrian</p><img src="http://www.revenuerebel.com/img/blog-headings/equilibrian/do-you-really-know-your-sales-team.jpg" /></article>
+<article style=""><h1>Equilibrian</h1><p>Why do sales people insist on 'touching base' with prospects or 'catching up' with them? Whenever I hear a sales executive drag out these well-worn cliches, it tells me there's no playbook. There's no plan. They've no real idea of what comes next.</p><img src="http://www.revenuerebel.com/img/blog-headings/equilibrian/i-dont-want-to-be-touched.jpg" /></article>
