@@ -7,23 +7,23 @@ publisher:
   favicon: 'http://www.equilibrian.com/images/favicon/favicon-16x16.png'
   domain: bit.ly
 keywords:
-  - prospect
   - sales
-  - crm
-  - best-practice
-  - well-worn
-  - o14
-  - burj
-  - relevant
-  - executives
-  - steps
-description: "Why do sales people insist on 'touching base' with prospects or 'catching up' with them? Whenever I hear a sales executive drag out these well-worn cliches, it tells me there's no playbook. There's no plan. They've no real idea of what comes next."
+  - salespeople
+  - performance
+  - organizational
+  - staff
+  - taking
+  - processes
+  - improvement
+  - permanent
+  - techniques
+description: "It's no big secret, as leaders we all want greater performance from our sales organizations. But how do we go about achieving this? To take the step up from mediocre to jaw-dropping sales performance. Traditionally, sales leaders have looked to training. It's a time-honored first step."
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'http://bit.ly/1OfAHkb'
+isBasedOnUrl: 'http://bit.ly/1PwFmxC'
 title: Equilibrian
-datePublished: '2016-03-30T03:53:49.522Z'
-dateModified: '2016-03-30T03:51:11.756Z'
+datePublished: '2016-03-30T03:53:49.603Z'
+dateModified: '2016-03-30T03:51:01.350Z'
 sourcePath: _posts/2016-03-30-equilibrian.md
 published: true
 inFeed: true
@@ -33,4 +33,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Equilibrian</h1><p>Why do sales people insist on 'touching base' with prospects or 'catching up' with them? Whenever I hear a sales executive drag out these well-worn cliches, it tells me there's no playbook. There's no plan. They've no real idea of what comes next.</p><img src="http://www.revenuerebel.com/img/blog-headings/equilibrian/i-dont-want-to-be-touched.jpg" /></article>
+<article style=""><h1>Equilibrian</h1><p>It's no big secret, as leaders we all want greater performance from our sales organizations. But how do we go about achieving this? To take the step up from mediocre to jaw-dropping sales performance. Traditionally, sales leaders have looked to training. It's a time-honored first step.</p><img src="http://www.revenuerebel.com/img/blog-headings/equilibrian/what-does-good-look-like.jpg" /></article>
