@@ -1,0 +1,28 @@
+name: Equilibrian
+favicon: null
+layout_spectrum: 0.8916030949912965
+typography_spectrum: 0.6543896016664803
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.868641049368307
+  lightness: 0.7066652083303779
+  saturation: 0.4096259893849492
+  rhythmicContrast: 0.6825467604212463
+purpose: []
